@@ -3,12 +3,17 @@
 <h4 align="center">Helping you work smarter, faster, and better — Beyond Limits 🚀</h4>
 
 <p align="center">
-  <a href="mailto:hello@rheaparra.com"><img src="https://img.shields.io/badge/Email-hello%40rheaparra.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/rhea-parra"><img src="https://img.shields.io/badge/LinkedIn-Rhea%20Parra-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://rheaparra.com/"><img src="https://img.shields.io/badge/Portfolio-rheaparra.com-1abc9c?style=flat-square&logo=firefox-browser"></a>
+  <a href="mailto:hello@rheaparra.com">
+    <img src="https://img.shields.io/badge/Email-hello%40rheaparra.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/rhea-parra">
+    <img src="https://img.shields.io/badge/LinkedIn-Rhea%20Parra-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://rheaparra.com/">
+    <img src="https://img.shields.io/badge/Portfolio-rheaparra.com-1abc9c?style=for-the-badge&logo=firefox-browser&logoColor=white">
+  </a>
 </p>
 
----
 
 ## 🌟 About Me  
 
