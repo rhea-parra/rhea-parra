@@ -2,10 +2,23 @@
 <h3 align="center">💻 Virtual Assistant @ Beyond Limits Virtual Services</h3>
 <h4 align="center">Helping you work smarter, faster, and better — Beyond Limits 🚀</h4>
 
-Rhea Parra  
-Virtual Assistant | Beyond Limits Virtual Services  
-Helping you work smarter, faster, and better — Beyond Limits 🚀  
-🌐 rheaparra.com | 📧 hello@rheaparra.com | 📞 +63 995 462 6429
+<p align="center">
+  <a href="mailto:hello@rheaparra.com">
+    <img src="https://img.shields.io/badge/Email-hello%40rheaparra.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/rhea-parra">
+    <img src="https://img.shields.io/badge/LinkedIn-Rhea%20Parra-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://rheaparra.com/">
+    <img src="https://img.shields.io/badge/Portfolio-rheaparra.com-1abc9c?style=for-the-badge&logo=firefox-browser&logoColor=white">
+  </a>
+  <a href="tel:+639954626429">
+    <img src="https://img.shields.io/badge/Phone-%2B63--995--462--6429-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://goo.gl/maps/your-location-link">
+    <img src="https://img.shields.io/badge/Location-Cebu%2C%20Philippines-green?style=for-the-badge&logo=google-maps&logoColor=white">
+  </a>
+</p>
 
 
 
