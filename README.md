@@ -1,8 +1,3 @@
-<!-- 🌟 Banner Section -->
-<p align="center">
-  <img src=""C:\Users\rheap\Downloads\Untitled design.png"" alt="Rhea Parra Banner" />
-</p>
-
 <h1 align="center">Hi, I'm Rhea Parra 👋</h1>
 <h3 align="center">💻 Virtual Assistant @ Beyond Limits Virtual Services</h3>
 <h4 align="center">Helping you work smarter, faster, and better — Beyond Limits 🚀</h4>
