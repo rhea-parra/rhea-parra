@@ -1,6 +1,6 @@
 <!-- 🌟 Banner Section -->
 <p align="center">
-  <img src="https://via.placeholder.com/1280x320.png?text=Rhea+Parra+-+Beyond+Limits+Virtual+Services" alt="Rhea Parra Banner" />
+  <img src=""C:\Users\rheap\Downloads\Untitled design.png"" alt="Rhea Parra Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Rhea Parra 👋</h1>
