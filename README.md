@@ -12,9 +12,6 @@
   <a href="https://rheaparra.com/">
     <img src="https://img.shields.io/badge/Portfolio-rheaparra.com-1abc9c?style=for-the-badge">
   </a>
-  <a href="tel:+639954626429">
-    <img src="https://img.shields.io/badge/Phone-%2B63--995--462--6429-lightgrey?style=for-the-badge">
-  </a>
 </p>
 
 
