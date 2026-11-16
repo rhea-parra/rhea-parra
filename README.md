@@ -1,13 +1,9 @@
 
-<!-- ============================================ -->
-<!-- RHEA PARRA | GITHUB PROFILE README            -->
-<!-- ============================================ -->
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B66,100:168BCE&height=220&section=header&text=Rhea%20Parra&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Data%20%26%20Analytics%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Meaningful+Insights;Building+Data-Driven+Solutions;Exploring+AI%2C+ML+%26+Automation;Learning%2C+Building+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Meaningful+Insights;Building+Data-Driven+Solutions;Exploring+AI%2C+ML+%26+Automation;Learning%2C+Building+%26+Growing" />
 
   <br/>
 
@@ -18,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-168BCE?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://rheaparra.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-123B66?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
 </div>
@@ -29,16 +25,16 @@
 
 Hello! I'm **Rhea Parra**, a Data & Analytics Enthusiast passionate about transforming raw data into meaningful insights and practical business solutions.
 
-My experience spans data analytics, business intelligence, reporting, statistical research, and workflow automation. I enjoy working with data throughout its lifecycle — from collection and preparation to analysis, visualization, and communicating actionable insights.
+My professional experience spans data analytics, business intelligence, reporting, statistical research, and workflow automation. I enjoy working with data throughout its lifecycle — from collection and preparation to analysis, visualization, and communicating actionable insights.
 
 I'm continuously expanding my knowledge across data engineering, artificial intelligence, and machine learning to build more efficient and intelligent data-driven solutions.
 
 - 📍 Based in Liloan, Cebu, Philippines
-- 📊 Interested in Data Analytics, Business Intelligence, and Data Engineering
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- ⚙️ Passionate about automation and process improvement
-- 📚 Committed to continuous learning and professional development
-- 🎯 Focused on building solutions that create meaningful business impact
+- 📊 Interested in Data Analytics and Business Intelligence
+- 🔄 Exploring Data Engineering and workflow automation
+- 🤖 Learning Artificial Intelligence and Machine Learning
+- 📈 Passionate about data-driven decision-making
+- 🌱 Committed to continuous learning and professional development
 
 ---
 
@@ -57,7 +53,7 @@ I'm continuously expanding my knowledge across data engineering, artificial inte
 - Dashboard Development & Data Visualization
 - KPI Monitoring & Performance Reporting
 - Business Intelligence & Reporting
-- Data Analysis & Exploratory Data Analysis
+- Exploratory Data Analysis (EDA)
 - Statistical Analysis
 - Data Cleaning, Validation & Transformation
 - Business Analysis & Data Interpretation
@@ -77,7 +73,7 @@ I'm continuously expanding my knowledge across data engineering, artificial inte
 - Data Validation
 - Version Control
 
-### 🔄 Data Engineering & Workflow Automation
+### 🔄 Data Engineering & Automation
 
 <p>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
@@ -123,13 +119,23 @@ I'm continuously expanding my knowledge across data engineering, artificial inte
 
 ## 💼 Professional Experience
 
-| Organization | Position | Period |
-|---|---|---|
-| AllPour — Victoria, Australia (Remote) | Data Analyst | Jun 2022 – Sep 2026 |
-| Sports City International — Lapu-Lapu City | Power BI Analyst | Apr 2021 – Jun 2022 |
-| Philippine Statistics Authority — Cebu City | Statistical Researcher | Jan 2019 – Mar 2021 |
+### Data Analyst | AllPour
+**Victoria, Australia (Remote)**
+*June 2022 – September 2026*
 
-My professional experience has helped me develop a foundation in data analysis, business reporting, statistical research, visualization, and data-driven decision-making.
+Experience in data analysis, reporting, business intelligence, and transforming information into actionable business insights.
+
+### Power BI Analyst | Sports City International
+**Lapu-Lapu City, Philippines**
+*April 2021 – June 2022*
+
+Focused on business intelligence, dashboard development, data visualization, and performance reporting.
+
+### Statistical Researcher | Philippine Statistics Authority
+**Cebu City, Philippines**
+*January 2019 – March 2021*
+
+Developed foundational experience in statistical research, data collection, validation, and analysis.
 
 ---
 
@@ -138,11 +144,11 @@ My professional experience has helped me develop a foundation in data analysis, 
 | Area | Focus |
 |---|---|
 | Data Analytics | Exploring datasets and identifying meaningful patterns |
-| Business Intelligence | Building dashboards and tracking business performance |
+| Business Intelligence | Building dashboards and monitoring business performance |
 | Data Engineering | Understanding data pipelines and ETL workflows |
 | AI & Machine Learning | Exploring predictive models and intelligent applications |
 | Automation | Improving workflows and operational efficiency |
-| Process Improvement | Applying data and structured methodologies to improve processes |
+| Process Improvement | Applying data and structured methodologies |
 
 ---
 
@@ -182,7 +188,7 @@ Cebu Technological University – Danao
 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhea-parra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
-  <br/>
+  <br/><br/>
 
   <img width="70%" src="https://streak-stats.demolab.com?user=rhea-parra&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
@@ -205,30 +211,51 @@ I believe that learning never stops. Every project is an opportunity to improve,
 
 ## 🤝 Let's Connect!
 
-I'm always open to connecting with fellow data professionals, collaborating on projects, and exploring opportunities in data and technology.
+<p align="center">
+  I'm always open to connecting with fellow data professionals,
+  collaborating on projects, and exploring opportunities in data and technology.
+</p>
 
 <div align="center">
 
-  📍 **Liloan, Cebu, Philippines**
-
-  📧 **hello@rheaparra.com**
-
-  📱 **+63-949-6597-856**
-
-  🌐 **[rheaparra.com](https://rheaparra.com/)**
-
-  💼 **[LinkedIn](https://www.linkedin.com/in/rhea-parra)**
-
-  🐙 **[GitHub](https://github.com/rhea-parra)**
+  <img src="./rhea_holographic_avatar.gif" width="190" alt="Rhea Parra - Animated Holographic Avatar" />
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=rhea-parra&label=Profile%20Views&color=168BCE&style=flat" alt="Profile Views" />
+  **Rhea Parra**
+
+  <sub>Data & Analytics Enthusiast</sub>
+
+  <br/><br/>
+
+  📍 Liloan, Cebu, Philippines
+
+  <br/><br/>
+
+  <a href="mailto:hello@rheaparra.com">
+    <img src="https://img.shields.io/badge/Email-hello%40rheaparra.com-168BCE?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/rhea-parra">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://rheaparra.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-123B66?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/rhea-parra">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=rhea-parra&label=Profile%20Views&color=168BCE&style=flat" />
 
   <br/><br/>
 
   **"Turning data into insights, and insights into impact."**
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:168BCE,50:123B66,100:0D1117&height=120&section=footer" width="100%" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:168BCE,50:123B66,100:0D1117&height=120&section=footer" width="100%" />
