@@ -327,3 +327,4 @@ Open to professional connections, collaboration, and opportunities in data and t
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:168BCE,50:123B66,100:0D1117&height=100&section=footer" width="100%" />
+
