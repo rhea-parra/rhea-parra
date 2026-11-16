@@ -1,119 +1,182 @@
 
+<!--
+  RHEA PARRA
+  DATA & ANALYTICS | AI & DATA INTELLIGENCE
+  GitHub Profile README
+-->
+
 <div align="center">
 
-# Rhea Parra
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=8" width="100%" />
 
-### Data & Analytics Professional
+<br/>
 
-**Data Analytics · Business Intelligence · Data Engineering · AI & Machine Learning**
+<img src="./rhea_holographic_avatar.gif" width="155" alt="Rhea Parra holographic avatar" />
+
+<br/>
+
+# RHEA PARRA
+
+### DATA & ANALYTICS PROFESSIONAL
+
+**BUSINESS INTELLIGENCE · DATA ENGINEERING · AI / ML · AUTOMATION**
 
 <p>
-  <a href="https://www.linkedin.com/in/rhea-parra">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://rheaparra.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-168BCE?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:hello@rheaparra.com">
-    <img src="https://img.shields.io/badge/Email-Contact-555555?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/rhea-parra">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-00D4FF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LOCATION-CEBU%2C%20PH-1F6FEB?style=flat-square&labelColor=0D1117" />
 </p>
 
-<img src="./rhea_holographic_avatar.gif" width="150" alt="Rhea Parra animated avatar" />
+<a href="https://www.linkedin.com/in/rhea-parra">
+  <img src="https://img.shields.io/badge/LINKEDIN-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://rheaparra.com/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="mailto:hello@rheaparra.com">
+  <img src="https://img.shields.io/badge/EMAIL-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+</a>
 
-📍 Liloan, Cebu, Philippines
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Intelligence.;Building+Meaningful+Data+Solutions.;Exploring+AI%2C+ML+%26+Automation.;Analyze.+Build.+Improve.+Repeat." />
 
 </div>
 
 ---
 
-## Profile
+## `01 // ABOUT`
 
-I am a data and analytics professional with experience across data analysis, business intelligence, statistical research, and reporting.
+```bash
+$ whoami
+Rhea Parra
 
-My work focuses on transforming raw data into reliable insights that support business decisions. I enjoy working across the data lifecycle — from data extraction, cleaning, and validation to analysis, visualization, and reporting.
+$ professional_identity
+Data & Analytics Professional
 
-I am also expanding my technical capabilities in data engineering, machine learning, and AI-driven applications, with an interest in building scalable and practical data solutions.
+$ core_domains
+Business Intelligence
+Data Analytics
+Data Engineering
+Artificial Intelligence & Machine Learning
 
-**Core interests**
-- Business Intelligence and Analytics
-- Data Engineering and ETL workflows
-- Statistical Analysis and Data Quality
-- Machine Learning and AI applications
-- Reporting Automation and Process Improvement
+$ current_mission
+Building practical, data-driven solutions
+that turn information into meaningful impact.
+```
 
----
+I am a data and analytics professional with experience in business intelligence, data analysis, statistical research, and reporting.
 
-## Technical Skills
+I enjoy working across the data lifecycle — from data extraction, cleaning, and validation to analytical modeling, visualization, and communicating actionable insights.
 
-| Category | Technologies |
-|---|---|
-| Business Intelligence | Power BI, Tableau, Looker |
-| Spreadsheets & Reporting | Microsoft Excel, Google Sheets |
-| Programming | Python, SQL |
-| Data Analysis | Data Cleaning, EDA, Statistical Analysis, Data Validation |
-| Data Engineering | Apache Airflow, ETL/ELT, Data Pipelines |
-| Machine Learning & AI | Scikit-learn, Hugging Face Transformers, LangChain |
-| Business & Web Analytics | Google Analytics 4 |
-| Automation | Microsoft Power Apps |
-| Development Tools | Git, GitHub |
+Beyond analytics, I am expanding my technical capabilities in data engineering, machine learning, and AI-powered applications.
+
+My goal is to combine analytical thinking with technical implementation to build reliable, scalable, and useful data solutions.
 
 ---
 
-## Featured Projects
+## `02 // TECH STACK`
 
-A portfolio of practical projects demonstrating analytical thinking, technical implementation, and end-to-end problem-solving.
+### DATA ANALYTICS & BUSINESS INTELLIGENCE
 
-### 01. Sales Performance & Business Intelligence Dashboard
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+</p>
 
-**Technologies:** Power BI · SQL · DAX · Excel
+### PROGRAMMING & DATABASES
 
-An executive-level business intelligence solution designed to transform sales data into actionable business insights.
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-**Key components**
+### DATA ENGINEERING & ORCHESTRATION
+
+<p>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL%2FELT-168BCE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Pipelines-123B66?style=for-the-badge" />
+</p>
+
+### ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
+
+### BUSINESS ANALYTICS & AUTOMATION
+
+<p>
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+</p>
+
+---
+
+## `03 // FEATURED PROJECTS`
+
+A collection of practical implementations covering analytics, business intelligence, data science, and data engineering.
+
+### [01] SALES PERFORMANCE INTELLIGENCE
+
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/DAX-168BCE?style=flat-square" />
+
+An interactive business intelligence solution designed to turn raw sales data into executive-level insights.
+
+**Implementation scope**
 - Executive KPI dashboard
 - Revenue and sales performance analysis
-- Regional and product-level comparisons
-- Monthly and yearly performance trends
+- Product and regional comparisons
+- Time-based performance trends
+- DAX measures and analytical calculations
 - Interactive filtering and drill-through
-- Business recommendations based on findings
 
-**Deliverables:** Power BI dashboard, data model, DAX measures, documentation, and screenshots.
+**Expected deliverables:** Power BI report, data model, DAX documentation, screenshots, and business findings.
 
-**Status:** In development
+<sub>PROJECT STATUS: IN DEVELOPMENT</sub>
 
 ---
 
-### 02. Customer & Business Analytics
+### [02] CUSTOMER & BUSINESS ANALYTICS
 
-**Technologies:** SQL · Python · Pandas · Excel
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 
-An analytical project exploring customer behavior, purchasing patterns, and business performance using structured datasets.
+A data analytics project investigating customer behavior, purchasing patterns, and business performance.
 
-**Key components**
-- Data extraction and transformation using SQL
-- Customer segmentation
-- Revenue and purchasing behavior analysis
-- Retention and customer trends
+**Implementation scope**
+- Data extraction and transformation
 - SQL joins, CTEs, and window functions
-- Analytical findings and recommendations
+- Customer segmentation
+- Revenue and purchasing behavior
+- Retention and customer trends
+- Business insights and recommendations
 
-**Deliverables:** SQL scripts, Python notebooks, analytical report, and visualizations.
+**Expected deliverables:** SQL scripts, Python notebooks, analytical report, and visualizations.
 
-**Status:** In development
+<sub>PROJECT STATUS: IN DEVELOPMENT</sub>
 
 ---
 
-### 03. Python Exploratory Data Analysis & Predictive Modeling
+### [03] PYTHON DATA SCIENCE WORKBENCH
 
-**Technologies:** Python · Pandas · NumPy · Matplotlib · Scikit-learn
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 
-A complete data analysis workflow covering data preparation, exploratory analysis, statistical investigation, and introductory predictive modeling.
+An end-to-end analytical workflow covering data preparation, exploratory analysis, statistical investigation, and predictive modeling.
 
-**Key components**
+**Implementation scope**
 - Data cleaning and preprocessing
 - Exploratory data analysis
 - Statistical summaries and distributions
@@ -121,55 +184,63 @@ A complete data analysis workflow covering data preparation, exploratory analysi
 - Data visualization
 - Predictive modeling and model evaluation
 
-**Deliverables:** Jupyter notebooks, reusable Python scripts, visualizations, and technical documentation.
+**Expected deliverables:** Jupyter notebooks, reusable scripts, visualizations, and technical documentation.
 
-**Status:** In development
+<sub>PROJECT STATUS: IN DEVELOPMENT</sub>
 
 ---
 
-### 04. End-to-End Data Engineering Pipeline
+### [04] END-TO-END DATA PIPELINE
 
-**Technologies:** Python · SQL · Apache Airflow · ETL
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
 
-A practical data engineering implementation demonstrating how data can be ingested, transformed, validated, and orchestrated through a repeatable pipeline.
+A practical data engineering implementation demonstrating how data moves from source systems through transformation, validation, and orchestration.
 
-**Key components**
-- Data ingestion from source files or APIs
+**Implementation scope**
+- Data ingestion from files or APIs
 - Data transformation and normalization
-- Data quality validation
-- SQL-based storage
+- Data quality checks
+- SQL-based data storage
 - Apache Airflow DAG orchestration
-- Logging, monitoring, and failure handling
+- Logging and failure handling
 
-**Deliverables:** Pipeline source code, Airflow DAGs, sample datasets, architecture documentation, and execution instructions.
+**Expected deliverables:** Source code, Airflow DAGs, sample datasets, architecture diagram, and execution instructions.
 
-**Status:** In development
+<sub>PROJECT STATUS: IN DEVELOPMENT</sub>
 
 ---
 
-## Professional Experience
+## `04 // PROFESSIONAL EXPERIENCE`
 
-### Data Analyst — AllPour
-**Victoria, Australia · Remote**  
+**DATA ANALYST — ALLPOUR**
+
+`Victoria, Australia · Remote`
+
 `June 2022 – September 2026`
 
-Experience in data analytics, reporting, business intelligence, and transforming business information into actionable insights.
+Experience in data analytics, reporting, business intelligence, and translating business information into actionable insights.
 
-### Power BI Analyst — Sports City International
-**Lapu-Lapu City, Philippines**  
+**POWER BI ANALYST — SPORTS CITY INTERNATIONAL**
+
+`Lapu-Lapu City, Philippines`
+
 `April 2021 – June 2022`
 
-Worked on business intelligence, dashboard development, data visualization, and performance reporting.
+Experience in business intelligence, dashboard development, data visualization, and performance reporting.
 
-### Statistical Researcher — Philippine Statistics Authority
-**Cebu City, Philippines**  
+**STATISTICAL RESEARCHER — PHILIPPINE STATISTICS AUTHORITY**
+
+`Cebu City, Philippines`
+
 `January 2019 – March 2021`
 
-Developed experience in statistical research, data collection, validation, organization, and analysis.
+Experience in statistical research, data collection, validation, organization, and analysis.
 
 ---
 
-## Certifications & Professional Development
+## `05 // CERTIFICATIONS`
 
 - Certified Data Engineer Associate
 - Certified Data Analyst Associate
@@ -185,29 +256,32 @@ Developed experience in statistical research, data collection, validation, organ
 
 ---
 
-## Education
+## `06 // EDUCATION`
 
 **Bachelor of Science in Industrial Engineering**
 
-Cebu Technological University – Danao  
+Cebu Technological University – Danao
+
 `2020 – 2024`
 
 Academic distinction: Dean's Lister
 
 ---
 
-## Currently Developing
+## `07 // CURRENT FOCUS`
 
-- Advanced Python and SQL
-- Data modeling and pipeline architecture
-- Apache Airflow orchestration
-- Machine learning applications
-- AI-powered analytical workflows
-- Reporting and business process automation
+```text
+[ ANALYTICS       ]  Advanced Python & SQL
+[ DATA ENGINEERING]  Data Modeling & ETL
+[ ORCHESTRATION   ]  Apache Airflow
+[ MACHINE LEARNING]  Predictive Modeling
+[ AI APPLICATIONS ]  Intelligent Data Workflows
+[ AUTOMATION      ]  Business Process Optimization
+```
 
 ---
 
-## GitHub Activity
+## `08 // GITHUB ACTIVITY`
 
 <div align="center">
 
@@ -215,29 +289,41 @@ Academic distinction: Dean's Lister
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhea-parra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=rhea-parra&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
 </div>
 
 ---
 
-## Connect
-
-<p align="center">
-  Open to professional connections, collaboration, and opportunities in data and technology.
-</p>
+## `09 // CONNECT`
 
 <div align="center">
 
-**Rhea Parra**
+<img src="./rhea_holographic_avatar.gif" width="110" alt="Rhea Parra animated avatar" />
 
-📍 Liloan, Cebu, Philippines
+### LET'S BUILD SOMETHING MEANINGFUL.
 
-<a href="mailto:hello@rheaparra.com">Email</a> ·
-<a href="https://www.linkedin.com/in/rhea-parra">LinkedIn</a> ·
-<a href="https://rheaparra.com/">Portfolio</a> ·
-<a href="https://github.com/rhea-parra">GitHub</a>
+Open to professional connections, collaboration, and opportunities in data and technology.
+
+<p>
+  <a href="mailto:hello@rheaparra.com">EMAIL</a> ·
+  <a href="https://www.linkedin.com/in/rhea-parra">LINKEDIN</a> ·
+  <a href="https://rheaparra.com/">PORTFOLIO</a> ·
+  <a href="https://github.com/rhea-parra">GITHUB</a>
+</p>
+
+<sub>Liloan, Cebu, Philippines</sub>
 
 <br/><br/>
 
-<sub>Turning data into insights. Building solutions that matter.</sub>
+<sub>ANALYZE. BUILD. AUTOMATE. INNOVATE.</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rhea-parra&label=PROFILE%20VIEWS&color=168BCE&style=flat-square" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:168BCE,50:123B66,100:0D1117&height=100&section=footer" width="100%" />
